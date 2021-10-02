@@ -1,4 +1,6 @@
 google.com, pub-8677662711044822, DIRECT, f08c47fec0942fa0
+# AdMob Demo Ads
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
 
 mopub.com, 7a0fc4a86a174fc2ad2a7f3680bd7639, DIRECT, 74b46c0ea83967ca
 rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
